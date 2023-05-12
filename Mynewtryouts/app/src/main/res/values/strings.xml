@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My new try outs</string>
+    <string name="display_good_morning">display good morning</string>
+    <string name="addition">addition</string>
+    <string name="tables">tables</string>
+    <string name="convert_kg">convert kg</string>
+    <string name="select_your_choice">select your choice</string>
+    <string name="vertical_scroll">vertical scroll</string>
+    <string name="horizontal_pic_view">horizontal pic view</string>
+    <string name="minions">minions</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="textview"> <b>Minions (Despicable Me)</b>
+        Minions (/ˈmɪnjənz/) are a male species of fictional yellow creatures that appear in Illumination\'s Despicable Me franchise. They are characterized by their childlike behavior and their language, which is largely unintelligible.[a]
+        The Minions serve as the official mascots for Illumination, and have also been described by The New York Times as "corporate icons" for Comcast in the years since their 2013 purchase of Illumination\'s parent company NBCUniversal; similar to Mickey Mouse for The Walt Disney Company, Bugs Bunny for Warner Bros. Discovery, SpongeBob SquarePants for Paramount Global, or Woody Woodpecker for Universal Studios.
+        Kevin, Stuart, and Bob are three of the most familiar minions, who appear as stars in the film Minions (2015) and its sequel Minions: The Rise of Gru (2022). Many other Minions are mentioned by name in the films and other media in the franchise. They were created by art director Eric Guillon, who worked on several Illumination films.
+        Characteristics
+The Minions are small, yellow creatures shaped like pill capsules. They are depicted as being roughly one-third to one-half the height of humans but they were later revealed to be 3 feet 7 inches (1.1 m) tall. They have one or two eyes, and their irises are almost always brown (except for Bob, who has one green and one brown eye). There appears to be no other difference between the two types beyond the number and color of eyes, and their height. They have no discernible noses but seem capable of smelling, as they are shown smelling fruit and are affected by the Fart Gun. They are also shown without ears but can hear and respond to sounds. Most Minions appear either bald or with a few wispy strands of black hair on their heads. After leaving their home country of Switzerland in favor of a new life in America during the late 1960s, their clothing consists of blue overalls emblazoned with Gru\'s logo, black rubber gloves, shoes, and goggles.
+        Minions mostly speak incomprehensible (to the audience, but understandable to the human characters in the films) gibberish, which is partly derived from other languages, including French, English, Japanese, Korean, Italian, Spanish, and German.[2][3][4] Although seemingly nonsensical, the English-sounding dialogue is dubbed differently for every country, in order to make the sounds somewhat recognizable.[5] They have common English-language names, such as Dave (one of the first known minions in the franchise), Kevin, Stuart, Bob (the lead trio in Minions and Minions: The Rise of Gru), Mel (the leader of the Minions in Despicable Me 3), and Otto (the fourth lead Minion in Minions: The Rise of Gru).[6][7] While shown as somewhat absent-minded and having very mischievous streaks, they also possess exceptional engineering abilities, being able to design and construct spaceships and playthings for Gru\'s adopted daughters, particularly the youngest, Agnes.
+        Minions, the 2015 animated feature film, shows that they have existed since the beginning of life on Earth. Minions are biologically wired to seek out and serve the most terrible of villains; when they have no "boss" to serve, they become depressed and listless.[8] They are also shown to have a degree of invulnerability, as Kevin, Stuart and Bob are able to survive a European torture chamber without any injuries, even playing with the torture devices. In the 2010 short film "Banana", the Minions are revealed to have an almost uncontrollable craving for fruit, especially bananas.
+    </string>
+</resources>
